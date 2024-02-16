@@ -1,1 +1,3 @@
-this portion is for our e-commerce web code. 
+ls 
+mkdir 
+a
